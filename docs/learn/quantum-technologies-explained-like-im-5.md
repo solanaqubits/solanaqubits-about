@@ -384,6 +384,13 @@ Today, we build and support Solana validator infrastructure. At the same time, w
 
 ---
 
+## Discussion / Announcement
+
+- Website version: https://solanaqubits.com/resources/quantum-technologies-explained
+- Announcement post: https://x.com/solanaqubits/status/2067666966576353447
+
+---
+
 ## Disclaimer
 
 This material is educational and simplified. It is not a scientific paper, investment advice, or a technical specification. Quantum technologies are evolving quickly, so details, estimates, and practical capabilities may change over time.

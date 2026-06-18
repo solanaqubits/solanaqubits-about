@@ -14,6 +14,8 @@ Solana Qubits is an independent Solana validator initiative focused on reliable 
 ## Learning Resources
 
 - [Quantum Technologies Explained Like I’m 5](./docs/learn/quantum-technologies-explained-like-im-5.md)
+  - Website version: https://solanaqubits.com/resources/quantum-technologies-explained
+  - Announcement on X: https://x.com/solanaqubits/status/2067666966576353447
 
 ## Main Links
 

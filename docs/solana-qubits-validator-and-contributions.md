@@ -77,7 +77,12 @@ Current public contributions and resources include:
 5. Structured stake pool dataset
    - https://github.com/solanaqubits/solana-stake-pools
 
-6. Public communication channels
+6. Public learning resource: Quantum Technologies Explained Like I’m 5
+   - Website article: https://solanaqubits.com/resources/quantum-technologies-explained
+   - GitHub source article: https://github.com/solanaqubits/solanaqubits-about/blob/main/docs/learn/quantum-technologies-explained-like-im-5.md
+   - Announcement on X: https://x.com/solanaqubits/status/2067666966576353447
+
+7. Public communication channels
    - X / Twitter: https://x.com/solanaqubits
    - Telegram channel: https://t.me/solanaqubits
    - Telegram chat: https://t.me/solanaqubitschat
@@ -121,6 +126,9 @@ The following public links may be useful as a concise reference set for delegati
 - Stake pool research article: https://solanaqubits.com/resources/solana-stake-pool-delegation-landscape
 - X research thread: https://x.com/solanaqubits/status/2067259338364711235
 - Phase quote repost: https://x.com/solanaqubits/status/2067621325376496053
+- Website quantum technologies article: https://solanaqubits.com/resources/quantum-technologies-explained
+- GitHub quantum technologies source article: https://github.com/solanaqubits/solanaqubits-about/blob/main/docs/learn/quantum-technologies-explained-like-im-5.md
+- X educational resource announcement: https://x.com/solanaqubits/status/2067666966576353447
 - GitHub about repository: https://github.com/solanaqubits/solanaqubits-about
 - GitHub research repository: https://github.com/solanaqubits/solanaqubits-research
 - GitHub stake pools data repository: https://github.com/solanaqubits/solana-stake-pools
