@@ -11,6 +11,10 @@ Solana Qubits is an independent Solana validator initiative focused on reliable 
 - Validator and contributions profile: ./docs/solana-qubits-validator-and-contributions.md
 - Brand accounts and contact links: ./docs/brand-accounts.md
 
+## Learning Resources
+
+- [Quantum Technologies Explained Like I’m 5](./docs/learn/quantum-technologies-explained-like-im-5.md)
+
 ## Main Links
 
 - Website: https://solanaqubits.com
