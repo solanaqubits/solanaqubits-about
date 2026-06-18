@@ -30,6 +30,7 @@ Solana Qubits is an independent Solana validator initiative focused on reliable 
 - About: https://github.com/solanaqubits/solanaqubits-about
 - Research: https://github.com/solanaqubits/solanaqubits-research
 - Stake pool data: https://github.com/solanaqubits/solana-stake-pools
+- Validator Tools: https://github.com/solanaqubits/solanaqubits-validator-tools
 
 ## Disclaimer
 

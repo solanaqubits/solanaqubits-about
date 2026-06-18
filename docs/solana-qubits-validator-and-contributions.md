@@ -82,7 +82,12 @@ Current public contributions and resources include:
    - GitHub source article: https://github.com/solanaqubits/solanaqubits-about/blob/main/docs/learn/quantum-technologies-explained-like-im-5.md
    - Announcement on X: https://x.com/solanaqubits/status/2067666966576353447
 
-7. Public communication channels
+7. Solana Qubits Validator Tools
+   - Repository: https://github.com/solanaqubits/solanaqubits-validator-tools
+   - Safety-first validator setup guides and read-only helper scripts for Solana validator operations, monitoring, maintenance, snapshots, and DoubleZero preflight checks.
+   - Contribution areas: Infrastructure, Education, Development.
+
+8. Public communication channels
    - X / Twitter: https://x.com/solanaqubits
    - Telegram channel: https://t.me/solanaqubits
    - Telegram chat: https://t.me/solanaqubitschat
@@ -132,6 +137,7 @@ The following public links may be useful as a concise reference set for delegati
 - GitHub about repository: https://github.com/solanaqubits/solanaqubits-about
 - GitHub research repository: https://github.com/solanaqubits/solanaqubits-research
 - GitHub stake pools data repository: https://github.com/solanaqubits/solana-stake-pools
+- GitHub validator tools repository: https://github.com/solanaqubits/solanaqubits-validator-tools
 - Mainnet Validators.app: https://www.validators.app/validators/EAW9vxqogvdPNapq7QTDpiVTHK6o7begUhPVnf854VTc?locale=en&network=mainnet
 - StakeWiz: https://stakewiz.com/validator/DyDjFYB6i51FMHQvB4eKSwGHmgMxVf1i3FWwANAngqyY
 - Malbec Labs: https://data.malbeclabs.com/solana/validators/DyDjFYB6i51FMHQvB4eKSwGHmgMxVf1i3FWwANAngqyY
@@ -143,7 +149,7 @@ The following public links may be useful as a concise reference set for delegati
 Future contribution directions may include:
 
 - More validator and staking educational materials
-- Beginner-friendly Solana infrastructure explainers
+- Beginner-friendly Solana infrastructure explainers and safety-first validator operations materials
 - Basic quantum technology explainers
 - Structured public datasets
 - Corrections and contributions from the community
