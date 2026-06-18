@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/solana-qubits-banner.png" alt="Solana Qubits — Future-Facing Solana Validator" width="100%">
+</p>
+
 # Solana Qubits About
 
 Solana Qubits is an independent Solana validator initiative focused on reliable infrastructure, transparent ecosystem participation, public research, and educational resources.
