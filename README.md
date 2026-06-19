@@ -8,8 +8,8 @@ Solana Qubits is an independent Solana validator initiative focused on reliable 
 
 ## Contents
 
-- Validator and contributions profile: ./docs/solana-qubits-validator-and-contributions.md
-- Brand accounts and contact links: ./docs/brand-accounts.md
+- Validator and contributions profile: [link](./docs/solana-qubits-validator-and-contributions.md)
+- Brand accounts and contact links: [link](./docs/brand-accounts.md)
 
 ## Learning Resources
 

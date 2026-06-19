@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../../assets/solana-qubits-banner.png" alt="Solana Qubits — Future-Facing Solana Validator" width="100%">
+  <img src="../../assets/quantum-technologies-eli5-x-card.png" alt="Quantum Technologies Explained Like I’m 5 — Solana Qubits" width="100%">
 </p>
 
 # Quantum Technologies Explained Like I’m 5
