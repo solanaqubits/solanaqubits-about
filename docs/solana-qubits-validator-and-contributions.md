@@ -64,8 +64,11 @@ Current public contributions and resources include:
 1. Public validator website
    - https://solanaqubits.com
 
-2. Public resource hub
-   - https://solanaqubits.com/resources
+2. Public website hubs
+   - Resource hub: https://solanaqubits.com/resources
+   - Education hub: https://solanaqubits.com/education
+   - Research hub: https://solanaqubits.com/research
+   - Tools section: https://solanaqubits.com/#tools
 
 3. Solana stake pool delegation landscape research
    - https://solanaqubits.com/resources/solana-stake-pool-delegation-landscape
@@ -84,6 +87,7 @@ Current public contributions and resources include:
 
 7. Solana Qubits Validator Tools
    - Repository: https://github.com/solanaqubits/solanaqubits-validator-tools
+   - Website tools section: https://solanaqubits.com/#tools
    - Safety-first validator setup guides and read-only helper scripts for Solana validator operations, monitoring, maintenance, snapshots, and DoubleZero preflight checks.
    - Contribution areas: Infrastructure, Education, Development.
 
@@ -119,6 +123,7 @@ Difficulty labels and best-fit notes are subjective and should be treated as pra
 Related materials:
 
 - Website article: https://solanaqubits.com/resources/solana-stake-pool-delegation-landscape
+- Research hub: https://solanaqubits.com/research
 - Research repository: https://github.com/solanaqubits/solanaqubits-research
 - Stake pool data repository: https://github.com/solanaqubits/solana-stake-pools
 
@@ -127,7 +132,10 @@ Related materials:
 The following public links may be useful as a concise reference set for delegation program applications, validator review, or public identity checks:
 
 - Website: https://solanaqubits.com
-- Resources page: https://solanaqubits.com/resources
+- Resource hub: https://solanaqubits.com/resources
+- Education hub: https://solanaqubits.com/education
+- Research hub: https://solanaqubits.com/research
+- Tools section: https://solanaqubits.com/#tools
 - Stake pool research article: https://solanaqubits.com/resources/solana-stake-pool-delegation-landscape
 - X research thread: https://x.com/solanaqubits/status/2067259338364711235
 - Phase quote repost: https://x.com/solanaqubits/status/2067621325376496053

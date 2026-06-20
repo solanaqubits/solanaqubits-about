@@ -20,7 +20,10 @@ Solana Qubits is an independent Solana validator initiative focused on reliable 
 ## Main Links
 
 - Website: https://solanaqubits.com
-- Resources: https://solanaqubits.com/resources
+- Resource hub: https://solanaqubits.com/resources
+- Education hub: https://solanaqubits.com/education
+- Research hub: https://solanaqubits.com/research
+- Tools section: https://solanaqubits.com/#tools
 - X / Twitter: https://x.com/solanaqubits
 - GitHub organization: https://github.com/solanaqubits
 - Contact: validator@solanaqubits.com
