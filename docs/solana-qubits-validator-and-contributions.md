@@ -82,6 +82,8 @@ Current public contributions and resources include:
 
 6. Public learning resource: Quantum Technologies Explained Like I’m 5
    - Website article: https://solanaqubits.com/resources/quantum-technologies-explained
+   - Learning repository: https://github.com/solanaqubits/solanaqubits-learn
+   - Learn repo article: https://github.com/solanaqubits/solanaqubits-learn/blob/main/docs/learn/quantum-technologies-explained-like-im-5.md
    - GitHub source article: https://github.com/solanaqubits/solanaqubits-about/blob/main/docs/learn/quantum-technologies-explained-like-im-5.md
    - Announcement on X: https://x.com/solanaqubits/status/2067666966576353447
 
@@ -140,6 +142,8 @@ The following public links may be useful as a concise reference set for delegati
 - X research thread: https://x.com/solanaqubits/status/2067259338364711235
 - Phase quote repost: https://x.com/solanaqubits/status/2067621325376496053
 - Website quantum technologies article: https://solanaqubits.com/resources/quantum-technologies-explained
+- GitHub learning repository: https://github.com/solanaqubits/solanaqubits-learn
+- GitHub quantum technologies learn article: https://github.com/solanaqubits/solanaqubits-learn/blob/main/docs/learn/quantum-technologies-explained-like-im-5.md
 - GitHub quantum technologies source article: https://github.com/solanaqubits/solanaqubits-about/blob/main/docs/learn/quantum-technologies-explained-like-im-5.md
 - X educational resource announcement: https://x.com/solanaqubits/status/2067666966576353447
 - GitHub about repository: https://github.com/solanaqubits/solanaqubits-about
