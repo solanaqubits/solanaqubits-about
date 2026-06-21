@@ -73,6 +73,7 @@ Current public contributions and resources include:
 3. Solana stake pool delegation landscape research
    - https://solanaqubits.com/resources/solana-stake-pool-delegation-landscape
    - https://x.com/solanaqubits/status/2067259338364711235
+   - The stake pool research now also tracks public validator scoring dashboards, delegation dashboards, active application/interest links, and source-linked program updates for Phase, Vault, Marinade, JPool, Jito, DoubleZero, Edgevana, and xSHIN.
 
 4. Open-source research materials
    - https://github.com/solanaqubits/solanaqubits-research
