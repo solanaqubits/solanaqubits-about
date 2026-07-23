@@ -26,7 +26,7 @@ Primary public links:
 - Website: https://solanaqubits.com
 - Contact email: validator@solanaqubits.com
 - X / Twitter: https://x.com/solanaqubits
-- GitHub organization: https://github.com/solanaqubits
+- GitHub profile: https://github.com/solanaqubits
 
 Validator and explorer links:
 
@@ -66,6 +66,7 @@ Current public contributions and resources include:
 
 2. Public website hubs
    - Resource hub: https://solanaqubits.com/resources
+   - AI Tools and LLM Resources: https://solanaqubits.com/resources/ai-tools
    - Education hub: https://solanaqubits.com/education
    - Research hub: https://solanaqubits.com/research
    - Tools section: https://solanaqubits.com/#tools
@@ -75,31 +76,42 @@ Current public contributions and resources include:
    - https://x.com/solanaqubits/status/2067259338364711235
    - The stake pool research now also tracks public validator scoring dashboards, delegation dashboards, active application/interest links, and source-linked program updates for Phase, Vault, Marinade, JPool, Jito, DoubleZero, Edgevana, and xSHIN.
 
-4. Open-source research materials
+4. Solana validator client landscape research
+   - Live article: https://solanaqubits.com/research/solana-validator-client-landscape
+   - Research repository: https://github.com/solanaqubits/solanaqubits-research
+   - Article Markdown: https://github.com/solanaqubits/solanaqubits-research/blob/main/articles/solana-validator-client-landscape.md
+   - Source index: https://github.com/solanaqubits/solanaqubits-research/blob/main/sources/solana-validator-client-landscape-links.md
+
+5. Open-source research materials
    - https://github.com/solanaqubits/solanaqubits-research
 
-5. Structured stake pool dataset
+6. Structured stake pool dataset
    - https://github.com/solanaqubits/solana-stake-pools
 
-6. Public learning resource: Quantum Technologies Explained Like I’m 5
+7. Public learning resource: Quantum Technologies Explained Like I’m 5
    - Website article: https://solanaqubits.com/resources/quantum-technologies-explained
    - Learning repository: https://github.com/solanaqubits/solanaqubits-learn
    - Learn repo article: https://github.com/solanaqubits/solanaqubits-learn/blob/main/docs/learn/quantum-technologies-explained-like-im-5.md
    - GitHub source article: https://github.com/solanaqubits/solanaqubits-about/blob/main/docs/learn/quantum-technologies-explained-like-im-5.md
    - Announcement on X: https://x.com/solanaqubits/status/2067666966576353447
 
-7. Solana Qubits Validator Tools
+8. Solana Qubits Validator Tools
    - Repository: https://github.com/solanaqubits/solanaqubits-validator-tools
    - Website tools section: https://solanaqubits.com/#tools
    - Safety-first validator setup guides and read-only helper scripts for Solana validator operations, monitoring, maintenance, snapshots, and DoubleZero preflight checks.
    - Contribution areas: Infrastructure, Education, Development.
 
-8. Public communication channels
+9. Public AI tools and LLM resources
+   - Website page: https://solanaqubits.com/resources/ai-tools
+   - Repository: https://github.com/solanaqubits/solanaqubits-ai-tools
+   - The repository is a public bootstrap; no tools or code are claimed as published there yet.
+
+10. Public communication channels
    - X / Twitter: https://x.com/solanaqubits
    - Telegram channel: https://t.me/solanaqubits
    - Telegram chat: https://t.me/solanaqubitschat
    - Telegram contact: @solanaqubit
-   - GitHub: https://github.com/solanaqubits
+   - GitHub profile: https://github.com/solanaqubits
 
 ## Research and Data
 
@@ -125,9 +137,12 @@ Difficulty labels and best-fit notes are subjective and should be treated as pra
 
 Related materials:
 
-- Website article: https://solanaqubits.com/resources/solana-stake-pool-delegation-landscape
+- Stake pool website article: https://solanaqubits.com/resources/solana-stake-pool-delegation-landscape
+- Validator client landscape article: https://solanaqubits.com/research/solana-validator-client-landscape
 - Research hub: https://solanaqubits.com/research
 - Research repository: https://github.com/solanaqubits/solanaqubits-research
+- Validator client landscape article Markdown: https://github.com/solanaqubits/solanaqubits-research/blob/main/articles/solana-validator-client-landscape.md
+- Validator client landscape source index: https://github.com/solanaqubits/solanaqubits-research/blob/main/sources/solana-validator-client-landscape-links.md
 - Stake pool data repository: https://github.com/solanaqubits/solana-stake-pools
 
 ## Delegation Program Proof Links
@@ -138,6 +153,8 @@ The following public links may be useful as a concise reference set for delegati
 - Resource hub: https://solanaqubits.com/resources
 - Education hub: https://solanaqubits.com/education
 - Research hub: https://solanaqubits.com/research
+- Validator client landscape article: https://solanaqubits.com/research/solana-validator-client-landscape
+- AI Tools and LLM Resources: https://solanaqubits.com/resources/ai-tools
 - Tools section: https://solanaqubits.com/#tools
 - Stake pool research article: https://solanaqubits.com/resources/solana-stake-pool-delegation-landscape
 - X research thread: https://x.com/solanaqubits/status/2067259338364711235
@@ -149,8 +166,11 @@ The following public links may be useful as a concise reference set for delegati
 - X educational resource announcement: https://x.com/solanaqubits/status/2067666966576353447
 - GitHub about repository: https://github.com/solanaqubits/solanaqubits-about
 - GitHub research repository: https://github.com/solanaqubits/solanaqubits-research
+- GitHub validator client landscape article Markdown: https://github.com/solanaqubits/solanaqubits-research/blob/main/articles/solana-validator-client-landscape.md
+- GitHub validator client landscape source index: https://github.com/solanaqubits/solanaqubits-research/blob/main/sources/solana-validator-client-landscape-links.md
 - GitHub stake pools data repository: https://github.com/solanaqubits/solana-stake-pools
 - GitHub validator tools repository: https://github.com/solanaqubits/solanaqubits-validator-tools
+- GitHub AI tools repository bootstrap: https://github.com/solanaqubits/solanaqubits-ai-tools
 - Mainnet Validators.app: https://www.validators.app/validators/EAW9vxqogvdPNapq7QTDpiVTHK6o7begUhPVnf854VTc?locale=en&network=mainnet
 - StakeWiz: https://stakewiz.com/validator/DyDjFYB6i51FMHQvB4eKSwGHmgMxVf1i3FWwANAngqyY
 - Malbec Labs: https://data.malbeclabs.com/solana/validators/DyDjFYB6i51FMHQvB4eKSwGHmgMxVf1i3FWwANAngqyY
